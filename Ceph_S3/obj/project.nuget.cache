@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDM5uBXALBcXLLTMmDxtsZmhUOYDnYOP88UGUm2cm8kPEWBhH3Y44S5X21RscNEDS5MX429KikoEt13B8BOoUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\y.aminian\\source\\repos\\Ceph_S3\\Ceph_S3\\Ceph_S3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y.aminian\\.nuget\\packages\\awssdk.core\\3.7.12.21\\awssdk.core.3.7.12.21.nupkg.sha512",
+    "C:\\Users\\y.aminian\\.nuget\\packages\\awssdk.s3\\3.7.9.39\\awssdk.s3.3.7.9.39.nupkg.sha512"
+  ],
+  "logs": []
+}
